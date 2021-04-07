@@ -2,7 +2,7 @@
 
 ## Untuk Pengumpulan Tugas REST API Menggunakan CI 4
 
-Nama : BERTHY ANGGOWO MUKTI SUKAMTO
+Nama : BERTHY ANGGOWO MUKTI SUKAMTO.
 NIM : 18.01.53.2067
 
 ## What is CodeIgniter?
